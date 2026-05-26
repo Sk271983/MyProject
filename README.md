@@ -1,2 +1,3 @@
 # MyProject
-my first git repo
+my first git repo. 
+Author : Sk SINGH
